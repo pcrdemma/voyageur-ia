@@ -2,6 +2,8 @@
 
 > **Projet Supervisé IA · M1/M2 Digital & IA · Session 2 — WEBAPP & IA AGENTS**
 
+🌐 **Application disponible en ligne : [https://voyageur-ia.vercel.app/](https://voyageur-ia.vercel.app/)**
+
 ---
 
 ## 📖 Description
